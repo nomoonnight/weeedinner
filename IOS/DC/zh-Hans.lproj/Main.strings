@@ -1,0 +1,15 @@
+
+/* Class = "UITabBarItem"; title = "我买单"; ObjectID = "CWx-Wj-hT7"; */
+"CWx-Wj-hT7.title" = "我买单";
+
+/* Class = "UITabBarItem"; title = "朋友圈"; ObjectID = "Df3-iv-Ztv"; */
+"Df3-iv-Ztv.title" = "朋友圈";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "O88-Zl-NWR"; */
+"O88-Zl-NWR.title" = "我";
+
+/* Class = "UITabBarItem"; title = "消息"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "消息";
+
+/* Class = "UITabBarItem"; title = "好友"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "好友";

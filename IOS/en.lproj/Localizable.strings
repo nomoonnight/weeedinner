@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  DC
+
+  Created by vincent ding on 15/4/3.
+  Copyright (c) 2015年 vincent ding. All rights reserved.
+*/
+
+"please_fill" = "Please enter your user name and password.";

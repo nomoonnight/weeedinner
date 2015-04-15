@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  DC
+
+  Created by vincent ding on 15/3/30.
+  Copyright (c) 2015年 vincent ding. All rights reserved.
+*/
+
+
+
+"please_fill" = "Please enter your user name and password.";
+"login_success" = "You have successfully logged in.";
+"logout" = "Logout";
+"login" = "Login";
+"success_logout" = "You have successfully logged out.";
+"login_with" = "Login with: ";
+"login_error"  = "Incorrect user name or password.";
+"item" = "Items";
+"ceoblog" = "Jarltech CEO Blog";
+"ceoblog2" = "CEO Blog";
+"product_information" = "Featured Product";
+"news" = "News";
+"loading" = "Loading …";
+"more" = "More";
+"readon" = "read on";
+"price_desc"="(recommended retail price)";
+"reseller_price"="(Your reseller price)";
+"type"="type";
+"price"="price";
+"stock"="stock";
+"warranty"="warranty (months)";
+"accessories"="Available Accessories";
+"Austria"="Austria";
+"Belgium"="Belgium";
+"Denmark"="Denmark";
+"France"="France";
+"Germany"="Germany";
+"Great_Britain"="Great Britain";
+"Italy"="Italy";
+"Netherlands"="Netherlands";
+"UAE"="United Arab Emirates";
+"middle_east"="Middle East & Northern Africa";
+"China"="China";
+"Egypt"="Egypt";
+"Poland"="Poland";
+"Portugal"="Portugal";
+"Spain"="Spain";
+"Sweden"="Sweden";
+"Switzerland"="Switzerland";
+"Choose_country"="Choose country";
+"Error"="Error";
+"No_information"="No information about this device has been stored in our database";
+"Failure"="Failure";
+"No_internet"="No internet connection is currently available.";
+"search_serial"="SEARCH SERIAL NUMBER";
+"SERVICE_INFO"="Service App";
+"Product"="Products";
+"SCAN"="Scan";
+"HOME"="Home";
+"promos"="Promotions";
+"datenblatt"="Data sheet";
+"Choose_bonus_category"="Please choose a bonus category:";
+"your_bonus_pointes"="Your Bonus Points:";
+"not_logged_in"="Please log in to see your bonus points.";
+"bonusshop"="Bonus Shop";
+"top10_text"="Recommended premium bonus gifts from all categories";
+"point"="Points";
+"varianten"="Variants & Accessories";
+"product_info"="Product Info.";
+"download"="Download";
+"customerNO"="Customer Number";
+"password"="Password";
+"yes"="YES";
+"no"="NO";
+"stay_logged_in"="Stay logged in";
+"listprice"="- list price:";
+"logininfo"="Loginname:";
+"Contact"="Contact";
+"search_for"="Search result";
+"version_number"="Version number:";
+"descaimer"="All prices in euro, excl. VAT";
+"like"="like";
+"service_app_infotext"="Simply scan the product barcode of a defective device to access all current warranty and service data. The report contains all relevant information necessary to quickly and simply arrange repairs or device replace- ments.";
+
